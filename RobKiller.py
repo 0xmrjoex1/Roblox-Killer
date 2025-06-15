@@ -12,7 +12,7 @@ from rgbprint import Color, rgbprint
 
 # --------------- [ BroadCast ] --------------- #
 def broadcast():
-    url2 = "https://pastebin.com/raw/NEAHVYXd"
+    url2 = "https://pastebin.com/raw/4UVgMWui"
     r2 = requests.get(url2)
     if r2.ok:
         data = r2.text
