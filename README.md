@@ -55,7 +55,7 @@
 - insta: 0xmrjoex  
 - youtube.com/0xmrjoex
 - discord server: 
-- discord.gg/kHa3UmXb
+- discord.gg/jx-tools
 
 ## Help
 If you need help or want to report an error join the [Discord](discord.gg/kHa3UmXb)
